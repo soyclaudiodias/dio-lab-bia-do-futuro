@@ -38,5 +38,85 @@
     "rentabilidade": "Variável",
     "aporte_minimo": 100.00,
     "indicado_para": "Perfil arrojado com foco no longo prazo"
+  },
+  {
+    "nome": "Debêntures Incentivadas",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "IPCA + 5%",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Investidores moderados que buscam isenção de IR"
+  },
+  {
+    "nome": "ETF de Índice",
+    "categoria": "fundo",
+    "risco": "alto",
+    "rentabilidade": "Segue índice de ações",
+    "aporte_minimo": 50.00,
+    "indicado_para": "Quem deseja investir em bolsa de forma diversificada"
+  },
+  {
+    "nome": "Fundo Imobiliário",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "Dividendos mensais variáveis",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Investidores que buscam renda passiva"
+  },
+  {
+    "nome": "Criptomoedas",
+    "categoria": "alternativo",
+    "risco": "alto",
+    "rentabilidade": "Altamente volátil",
+    "aporte_minimo": 50.00,
+    "indicado_para": "Perfil arrojado disposto a assumir riscos elevados"
+  },
+  {
+    "nome": "Tesouro IPCA+",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "IPCA + juros fixos",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Proteção contra inflação no longo prazo"
+  },
+  {
+    "nome": "CDB de Bancos Médios",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "110% do CDI",
+    "aporte_minimo": 500.00,
+    "indicado_para": "Quem busca maior rentabilidade com garantia do FGC"
+  },
+  {
+    "nome": "Fundo Cambial",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "Variação do dólar",
+    "aporte_minimo": 200.00,
+    "indicado_para": "Investidores que querem proteção cambial"
+  },
+  {
+    "nome": "Ações Individuais",
+    "categoria": "variavel",
+    "risco": "alto",
+    "rentabilidade": "Dependente da empresa",
+    "aporte_minimo": 50.00,
+    "indicado_para": "Investidores experientes que acompanham o mercado"
+  },
+  {
+    "nome": "Fundo de Previdência",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "CDI + 1%",
+    "aporte_minimo": 200.00,
+    "indicado_para": "Planejamento de longo prazo para aposentadoria"
+  },
+  {
+    "nome": "COE (Certificado de Operações Estruturadas)",
+    "categoria": "alternativo",
+    "risco": "medio",
+    "rentabilidade": "Atrelada a índices ou ativos",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Investidores que buscam proteção parcial do capital"
   }
 ]
